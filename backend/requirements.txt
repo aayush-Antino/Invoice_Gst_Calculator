@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+google-genai
+chromadb
+python-dotenv
+pandas
+pydantic
+watchdog
